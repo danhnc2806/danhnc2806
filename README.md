@@ -4,7 +4,7 @@ Mobile Engineer focused on building stable, maintainable, and high-performance m
 
 - Location: Cu Loc, Thanh Xuan, Ha Noi, Viet Nam
 - Email: `danhnc2806@gmail.com`
-- GitHub: [DanhNC2806](https://github.com/DanhNC2806)
+- GitHub: [danhnc2806](https://github.com/danhnc2806)
 - Facebook: [danhnc2806](https://facebook.com/danhnc2806)
 
 ## About Me
